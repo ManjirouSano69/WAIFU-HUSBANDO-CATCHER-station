@@ -9,7 +9,7 @@ class Config(object):
     mongo_url = "mongodb+srv://nksharmas9835:Waifugrabbing@cluster0.amgwgh2.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     PHOTO_URL = ["https://telegra.ph/file/19d22d4d58ebbd874d049.jpg", "https://telegra.ph/file/17fbb38ff98ed66e5826d.jpg"]
     SUPPORT_CHAT = "waifu_support_group"
-    UPDATE_CHAT = "waifu_husbando_updates"
+    UPDATE_CHAT = "waifu_support_group"
     BOT_USERNAME = "Waifu_Grabbing_Robot"
     CHARA_CHANNEL_ID = "-1002003134505"
     api_id = 22867431
